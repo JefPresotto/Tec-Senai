@@ -60,7 +60,7 @@ Inicio   // Seção de Comandos, procedimento, funções, operadores, etc...
 
                   senao
                   se opcao = 3 entao
-                     escreval("FINALIZADO.., SAINDO DO PROGRAMA!")
+                     escreval("FINALIZADO... SAINDO DO PROGRAMA!")
                   interrompa
                   fimse
                   fimse
